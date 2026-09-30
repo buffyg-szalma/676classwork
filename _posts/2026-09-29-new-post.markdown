@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2026-09-29
+title: "New Post"
+author: Grace Szalma
+---
+The first new post for this Jekyll site. Very cool!
